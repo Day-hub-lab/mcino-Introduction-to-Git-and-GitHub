@@ -1,0 +1,4 @@
+git branch -vv 
+* bug-fix-revert c85e3f1 Revert "Update README.md"
+  bug-fix-typo   9bbfce0 [origin/bug-fix-typo] Fix type in README
+  main           9bbfce0 [origin/main: ahead 1] Fix type in README
